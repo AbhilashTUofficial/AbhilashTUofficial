@@ -1,116 +1,109 @@
-<!-- Banner -->
-<h1 align="center">Hey 👋, I'm Abhilash</h1>
-<h3 align="center">Frontend-Focused Full Stack Developer from India 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/abhilashtuofficial">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Next.js+Developer;React+Native+Developer;TypeScript+Lover;Frontend+Engineer;Building+Scalable+Apps" />
-  </a>
-</p>
+# ⚡ ABHILASH.EXE ⚡
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;Next.js+Architect;React+Native+Builder;Anime+Enjoyer;Photographer+%F0%9F%93%B8;Always+Learning+New+Things" />
 
-## 🚀 About Me
+<div align="center">
 
-- 💻 Frontend-focused Full Stack Developer
-- ⚡ Specialized in **Next.js, React, React Native & TypeScript**
-- 🛠 Backend experience with **Node.js, Express & MongoDB**
-- 📱 Building scalable web & mobile applications
-- 📸 Photography enthusiast
-- 🏔 Love trekking, traveling & anime
-- 🌱 Always learning new technologies
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🎮 Developer Profile
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-### Styling
-![SCSS](https://img.shields.io/badge/SCSS-CD6799?style=for-the-badge&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+| Skill Tree | Power Level |
+|---|---|
+| ⚛️ React | ████████████ 95% |
+| ▲ Next.js | ███████████ 92% |
+| 📱 React Native | ██████████ 88% |
+| 🎨 UI Engineering | █████████ 85% |
+| 🚀 Performance Optimization | ████████ 80% |
+| 🟢 Node.js / Express | ████████ 78% |
+| 🍃 MongoDB | ███████ 75% |
+| 🎯 TypeScript | ███████████ 90% |
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
 
----
+```yaml
+Developer: Abhilash
+Role: Frontend-Focused Full Stack Developer
 
-## 📊 GitHub Stats
+Core Stack:
+  - Next.js
+  - React
+  - React Native
+  - TypeScript
+  - Node.js
+  - MongoDB
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhilashtuofficial&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashtuofficial&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Currently Learning:
+  - Scalable Frontend Architecture
+  - AI Integrations
+  - Advanced UI Systems
 
----
+Hobbies:
+  - Photography 📸
+  - Trekking 🏔
+  - Anime 🎌
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhilashtuofficial&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Currently Exploring
-
-- Advanced Next.js Architecture
-- React Native Performance Optimization
-- Scalable Frontend Systems
-- AI integrations in Web Apps
-- Clean UI/UX Design
-
----
-
-## 📸 Beyond Coding
-
-```ts
-const abhilash = {
-  code: ["TypeScript", "JavaScript"],
-  technologies: {
-    frontend: ["React", "Next.js", "React Native"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB", "SQL"],
-  },
-  hobbies: [
-    "Photography 📸",
-    "Traveling ✈️",
-    "Trekking 🏔",
-    "Anime 🎌",
-  ],
-};
+Status:
+  "Building cool experiences on the internet 🚀"
 ```
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
-<a href="https://github.com/abhilashtuofficial" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,nodejs,express,mongodb,scss,css,git,github,vscode,firebase" />
 
-<a href="https://www.linkedin.com/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+</div>
 
-<a href="https://instagram.com/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-</p>
+## 🔥 STREAK SYSTEM
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhilashtuofficial&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+## ⚡ Runtime Loop
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=eat()+%E2%98%95;code()+%F0%9F%92%BB;clickPhotos()+%F0%9F%93%B8;travel()+%F0%9F%8C%8D;watchAnime()+%F0%9F%8E%8C;family()+%E2%9D%A4%EF%B8%8F;sleep()+%F0%9F%8C%99;repeat()+%E2%88%9E" />
+
+</div>
+
+```js
+while (alive) {
+  improve();
+}
+```
 
 ---
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhilashtuofficial&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<a href="https://github.com/abhilashtuofficial">
+  <img src="https://skillicons.dev/icons?i=github" height="20"/>
+</a>
+<a href="https://linkedin.com">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="20"/>
+</a>
+<a href="https://instagram.com">
+  <img src="https://skillicons.dev/icons?i=instagram" height="20"/>
+</a>
 
-<h3 align="center">⚡ “Build. Learn. Explore. Repeat.” ⚡</h3>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<img src="https://komarev.com/ghpvc/?username=abhilashtuofficial&style=flat-square&color=blueviolet"/>
+</div>
+<br/>
+
+### "Code. Create. Explore."
+
+</div>
