@@ -2,7 +2,7 @@
 
 # ⚡ ABHILASH.EXE ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Next.js+Architect;React+Native+Builder;Anime+Enjoyer;Photographer+📸" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+Native+|+Next+Js+|+React+Js;Mongo+DB+|+Node+Js+|+Express+Js" />
 
 </div>
 
@@ -19,29 +19,36 @@
 
 ```js
 while (alive) {
-  improve();
+improve();
+eat();
+enjoy();
+eat();
+build();
+eat();
+sleep(); // optional
+  
 }
 ```
 
 <br/>
 
 <a href="https://github.com/abhilashtuofficial">
-  <img src="https://skillicons.dev/icons?i=github" height="20"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="https://linkedin.com">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="20"/>
+<a href="https://www.linkedin.com/in/abhilashtu/)">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://instagram.com">
-  <img src="https://skillicons.dev/icons?i=instagram" height="20"/>
+<a href="https://instagram.com/abhilash_tu/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
 &nbsp;&nbsp;•&nbsp;&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=abhilashtuofficial&style=flat-square&color=blueviolet"/>
 
-<br/><br/>
+<br/>
 
 ###### Code • Create • Explore
 
@@ -106,8 +113,6 @@ Hobbies:
   - Trekking 🏔
   - Anime 🎌
 
-Status:
-  "Building cool things 🚀"
 ```
 
 </td>
