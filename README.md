@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ABHILASH.EXE
+# ⚡ ABHILASH.EXE ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Next.js+Architect;React+Native+Builder;Anime+Enjoyer;Photographer+📸" />
 
@@ -80,6 +80,7 @@ while (alive) {
 | 🚀 Optimization | ████████ 80% |
 | 🟢 Node.js / Express | ████████ 78% |
 | 🍃 MongoDB | ███████ 75% |
+| 🥅 .Net | ███████ 75% |
 
 </div>
 
@@ -125,7 +126,7 @@ Status:
 <img src="https://skillicons.dev/icons?i=git,github,vscode" height="58" />
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=firebase" height="58" />
+<img src="https://skillicons.dev/icons?i=firebase,java,python" height="58" />
 
 </td>
 
