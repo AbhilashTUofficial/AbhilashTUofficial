@@ -1,12 +1,7 @@
 <div align="center">
-
-# ⚡ ABHILASH.EXE ⚡
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+Native+|+Next+Js+|+React+Js;Mongo+DB+|+Node+Js+|+Express+Js" />
 
 </div>
-
-<br/>
 
 <table width="100%">
 <tr>
@@ -41,7 +36,6 @@
 
 </tr>
 </table>
-
 
 ## 🎮 Developer Profile
 
