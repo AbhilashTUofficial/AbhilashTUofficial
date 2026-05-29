@@ -13,44 +13,19 @@
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=430&lines=eat()+☕;code()+💻;clickPhotos()+📸;travel()+🌍;watchAnime()+🎌;family()+❤️;sleep()+🌙;repeat()+∞" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhilashtuofficial&theme=tokyonight" width="100%" />
 
-<br/>
-
-```js
-while (alive) {
-improve();
-eat();
-enjoy();
-eat();
-build();
-eat();
-sleep(); // optional
-  
-}
-```
-
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhilashtuofficial&theme=tokyonight" width="100%" />
 
 <a href="https://github.com/abhilashtuofficial">
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
-
 <a href="https://www.linkedin.com/in/abhilashtu/)">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-
 <a href="https://instagram.com/abhilash_tu/">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<img src="https://komarev.com/ghpvc/?username=abhilashtuofficial&style=flat-square&color=blueviolet"/>
-
-<br/>
-
-###### Code • Create • Explore
 
 </td>
 
@@ -58,9 +33,9 @@ sleep(); // optional
 
 <img src="https://streak-stats.demolab.com?user=abhilashtuofficial&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
 
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilashtuofficial&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" />
 
 </td>
 
@@ -141,3 +116,7 @@ Hobbies:
 
 </tr>
 </table>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=430&lines=eat()+☕;code()+💻;clickPhotos()+📸;travel()+🌍;watchAnime()+🎌;family()+❤️;sleep()+🌙;repeat()+∞" />
+</div>
